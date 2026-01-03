@@ -1,0 +1,18 @@
+# Relógio Digital em Tempo Real
+
+Este é um projeto simples de um **relógio digital**, desenvolvido com **HTML e JavaScript**, que exibe a hora atual e se atualiza automaticamente a cada segundo.
+
+## ⏰ Funcionalidades
+
+- Mostra as horas, minutos e segundos em tempo real.
+- Atualiza automaticamente a cada segundo.
+- Interface minimalista e fácil de usar.
+- Funciona em qualquer navegador moderno.
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura da página.
+- **JavaScript** – Lógica para capturar a hora atual e atualizar dinamicamente o conteúdo.
+
+## 🖼️ Estrutura do Projeto
+
